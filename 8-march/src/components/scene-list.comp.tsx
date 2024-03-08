@@ -1,5 +1,4 @@
 import { styled } from "@mui/material";
-import React from "react";
 import SceneItem from "./scene-item.comp";
 
 import kps from "assets/kps.png";

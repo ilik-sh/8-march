@@ -1,16 +1,6 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
-import SceneItem from "components/scene-item.comp";
 import SceneList from "components/scene-list.comp";
-import {
-  Backdrop,
-  Button,
-  CircularProgress,
-  Typography,
-  styled,
-} from "@mui/material";
+import { Typography, styled } from "@mui/material";
 import cat from "assets/cat.jpg";
 import Stats from "components/stats.comp";
 

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Character from "./character.comp";
 import { styled } from "@mui/material";
 

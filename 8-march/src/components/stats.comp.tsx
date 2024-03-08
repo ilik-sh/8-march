@@ -1,5 +1,5 @@
-import { Button, Backdrop, CircularProgress, styled } from "@mui/material";
-import React, { useState } from "react";
+import { Button, Backdrop, styled } from "@mui/material";
+import { useState } from "react";
 import background from "assets/background-stats.png";
 
 type Props = {};
